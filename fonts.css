@@ -1,0 +1,72 @@
+@font-face {
+
+font-family: ‘Lemon’;
+
+   src: url('https://raw.githubusercontent.com/josetg01/typography/master/fonts/lemon-regular/lemon-regular.ttf');
+
+   src: url('https://raw.githubusercontent.com/josetg01/typography/master/fonts/lemon-regular/lemon-regular.eot?#iefix') format('embedded-opentype'),
+
+        url('https://raw.githubusercontent.com/josetg01/typography/master/fonts/lemon-regular/lemon-regular.woff') format('woff'),
+
+        url('https://raw.githubusercontent.com/josetg01/typography/master/fonts/lemon-regular/lemon-regular.ttf') format('truetype'),
+
+        url('https://raw.githubusercontent.com/josetg01/typography/master/fonts/lemon-regular/lemon-regular#adlerRegular') format('svg');
+
+  font-weight: normal;
+
+  font-style: normal;
+
+}
+p {
+
+Font-family: ‘Lemon’;
+
+}
+
+@font-face {
+
+font-family: Fortnite;
+
+   src: url('https://raw.githubusercontent.com/josetg01/typography/master/fonts/Fortnite/fortnite.eot');
+
+   src: url('https://raw.githubusercontent.com/josetg01/typography/master/fonts/Fortnite/fortnite.eot?#iefix') format('embedded-opentype'),
+
+        url('https://raw.githubusercontent.com/josetg01/typography/master/fonts/Fortnite/fortnite.woff') format('woff'),
+
+        url('https://raw.githubusercontent.com/josetg01/typography/master/fonts/Fortnite/fortnite.ttf') format('truetype'),
+
+        url('https://raw.githubusercontent.com/josetg01/typography/master/fonts/Fortnite/fortnite#adlerRegular') format('svg');
+
+  font-weight: normal;
+
+  font-style: normal;
+
+}
+p {
+
+Font-family: Fortnite;
+}
+
+@font-face {
+
+font-family: GunPlay3;
+
+   src: url('https://raw.githubusercontent.com/josetg01/typography/master/fonts/gun3play/gun3play.eot');
+
+   src: url('fonts/gun3play/gunplay3.eot?#iefix') format('embedded-opentype'),
+
+        url('fonts/gun3play/gunplay3.woff') format('woff'),
+
+        url('fonts/gun3play/gunplay3.ttf') format('truetype'),
+
+        url('fonts/gun3play/gunplay3#adlerRegular') format('svg');
+
+  font-weight: normal;
+
+  font-style: normal;
+
+}
+p {
+
+Font-family: GunPlay3;
+}
